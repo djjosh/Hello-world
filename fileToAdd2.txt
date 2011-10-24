@@ -1,0 +1,23 @@
+commit 6c6cc71f8a933cf7a3ab6ab1bbd4b34cd2fbd632
+Author: djjosh <bulwaczini@interia.pl>
+Date:   Mon Oct 24 16:07:19 2011 +0200
+
+    very long msg to check ejjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+commit 6e0e18c6203d00533dd6021d8118d1a6e99e65b7
+Author: djjosh <bulwaczini@interia.pl>
+Date:   Mon Oct 24 15:46:54 2011 +0200
+
+    dodaje log  zmastera na masterze
+
+commit 2dd5d35d4749810c9887d178f83ab378edb797b8
+Author: djjosh <bulwaczini@interia.pl>
+Date:   Mon Oct 24 15:42:35 2011 +0200
+
+    dodaje plik testFile.txt
+
+commit 1569af0cc4c9da390bcdb09f1c69414f7995e2ef
+Author: djjosh <bulwaczini@interia.pl>
+Date:   Mon Oct 24 15:20:32 2011 +0200
+
+    first commit
